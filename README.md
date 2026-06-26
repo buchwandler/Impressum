@@ -1,6 +1,6 @@
 ## Angaben gemäß § 5 DDG
 
-Verantwortlich für eigene Inhalte auf [github.com/holgern](https://github.com/buchwandler):<br>
+Verantwortlich für eigene Inhalte auf [github.com/buchwandler](https://github.com/buchwandler):<br>
 Holger Nahrstaedt<br>
 c/o GAM<br>
 Pappelallee 64<br>
